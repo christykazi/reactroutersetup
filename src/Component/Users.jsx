@@ -1,0 +1,11 @@
+import React from 'react'
+
+const Users = () => {
+  return (
+    <div>
+        <p>  This is my users page</p>
+    </div>
+  )
+}
+
+export default Users
